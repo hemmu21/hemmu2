@@ -1,0 +1,160 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(140, 179, 212);
+
+}
+.album img{
+    height: 90px;
+    border-radius: 110px;
+    margin-left: 30px;
+}
+.album {
+ background-color: blue;
+ height:60PX ;
+ margin-top: ;
+ 
+
+
+}
+.album P{
+   
+    color: aliceblue;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ font-size:25PX; 
+ position: absolute;
+ right: 82%;
+ top: 15px;
+ 
+}
+.album ion-icon{
+color: antiquewhite;
+position: absolute;
+right: 20%;
+top: 3%;
+
+font-size: 30px;
+}
+
+.main h1    {
+    font-size: 30px;
+    margin-top: 30px;
+    margin-left: 43%;
+
+}
+.main p{
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 35%;
+    font-size: larger;
+    width: 500px;
+    margin-top: 15px;
+
+}
+.hemmu {
+    
+    margin-left: 40%;
+    color: blue;
+   
+}
+.hemmu input{
+    gap: 2rem;
+    height: 20px;
+    margin-top: 20px;
+    background-color:blue;
+    color: aliceblue;
+}
+.footer{
+    display: flex;
+    margin-top: 20px;
+}
+.mom{
+    background-color: blue;
+    color: aliceblue;
+    margin-left: 20%;
+    height: 200px;
+    width: 200px;
+    
+}
+.mom p{
+    margin-left: 1%;
+    text-align: center;
+    position: absolute;
+    top: 350px;
+    left:280px;
+    
+}
+.mom h2{
+ margin-top: 220px;
+ font-size: x-small;
+}
+.mom input{
+    margin-left: 10px;
+}
+.mom ion-icon{
+    margin-left: 50px;
+    font-size: 40px;
+
+}
+.papa{
+    background-color: blue;
+    color: aliceblue;
+    margin-left: 2%;
+    height: 200px;
+    width: 200px;
+    
+}
+.papa p{
+    margin-left: 1%;
+    text-align: center;
+    position: absolute;
+    top: 350px;
+    left:700px;
+    
+}
+.papa h2{
+    margin-top: 220px;
+ font-size: x-small;
+}
+.papainput{
+    margin-left: 10px;
+   
+}
+.papa ion-icon{
+    margin-left: 50px;
+    font-size: 40px;
+
+}
+.negi{
+    background-color: blue;
+    color: aliceblue;
+    margin-left: 2%;
+    height: 200px;
+    width: 200px;
+  
+    
+}
+.negi p{
+    margin-left: 1%;
+    text-align: center;
+    position: absolute;
+    top: 350px;
+    left:480px;
+    
+}
+.negi h2{
+    margin-top: 220px;
+ font-size: x-small; 
+}
+
+.negi input{
+    margin-left: 10px;
+  
+}
+.negi ion-icon{
+    margin-left: 50px;
+    font-size: 40px;
+
+}
